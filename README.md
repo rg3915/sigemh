@@ -3,7 +3,7 @@ Projeto __Open Source__ para Gestão de Equipamentos Médico-Hospitalares.
 
 Um projeto piloto está sendo desenvolvido no Hospital Universitário Onofre Lopes - Natal/RN
  
- ###Sou desenvolvedor, como posso contribuir?
+ ##Sou desenvolvedor, como posso contribuir?
 
     1º - Clone o repositório do GitHub no  botão verde;
     2º - Crie um ambiente virtual com o Python 3.6 e o Django==1.9.6
